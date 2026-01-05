@@ -3,7 +3,8 @@
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![SQL](https://img.shields.io/badge/SQL-Server-red)
-<img width="2752" height="1536" alt="Banner-Image" src="https://github.com/user-attachments/assets/fa787d28-fdc8-4807-b74d-76d85ae2252c" />
+![Banner-Image](https://github.com/user-attachments/assets/dc48b355-3233-4625-83ff-a7c0fd43b693)
+
 
 
 ## 📌 Project Overview
